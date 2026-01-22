@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 public class Q8 {
     public static void fillArray(int[] arr){
         for (int i = 0; i < arr.length; i++){
